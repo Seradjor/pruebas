@@ -33,7 +33,7 @@ Por último, hay un campo de texto donde se indica que las opciones reflejadas p
 ## Dependencias de otros módulos
 
 - **sale_management**: gestión de pedidos de los clientes.
-- "stock": revisión cantidad de producto disponible en el almacén y su correspondiente bloqueo.
+- **stock**: revisión cantidad de producto disponible en el almacén y su correspondiente bloqueo.
 
 ## Wireframes
 
@@ -67,7 +67,7 @@ Por último, hay un campo de texto donde se indica que las opciones reflejadas p
 
 ## Comunicación con otros módulos:
 
-- "sale_management": consulta.
-- "stock": consulta y modificación.
+- **sale_management**: consulta.
+- **stock**: consulta y modificación.
 
 
