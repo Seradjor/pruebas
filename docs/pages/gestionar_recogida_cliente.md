@@ -44,11 +44,11 @@ Por último, hay un campo de texto donde se indica que las opciones reflejadas p
 
 ### Correo
 
-![Wireframe correo](./images/gestionar_recogida_cliente_wireframe_correo.png)
+![Wireframe correo](../images/gestionar_recogida_cliente_wireframe_correo.png)
 
 ### Web
 
-![Wireframe web](./images/gestionar_recogida_cliente_wireframe_web.png)
+![Wireframe web](../images/gestionar_recogida_cliente_wireframe_web.png)
 
 ## Control de accesos: 
 
@@ -57,7 +57,7 @@ Por último, hay un campo de texto donde se indica que las opciones reflejadas p
 
 ## Diagrama de flujos:
 
-![Flujograma](./images/gestionar_recogida_cliente_flujograma.png)
+![Flujograma](../images/gestionar_recogida_cliente_flujograma.png)
 
 ## Esquema relacional de nuevas tablas y relación con otras existentes:
 
