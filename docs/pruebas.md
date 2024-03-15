@@ -1,4 +1,9 @@
-# gestionar_recogida_cliente
+---
+layout: page
+title: gestionar_recogida_cliente
+show_sidebar: false
+hero_height: is-fullwidth
+---
 
 Planificar recogidas de pedidos de clientes
 
