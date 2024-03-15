@@ -1,2 +1,2 @@
-- name: gestionar_recogida_cliente
-  link: /pruebas
+- name: gestionar recogida cliente
+  link: /gestionar_recogida_cliente
